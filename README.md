@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankiti Aggarwal
 - 🏫 I'm a third year Computer Engineering student at the University of Waterloo graduating Spring 2025
-- 👀 I’m interested in Software Developement
+- 👀 I’m interested in Full Stack Software Developement
 - 🌱 If you would like to learn more about my Real-Time Operating System project, please contact me at ankiti.aggarwal@uwaterloo.ca. Thank you!
 
 <!---
